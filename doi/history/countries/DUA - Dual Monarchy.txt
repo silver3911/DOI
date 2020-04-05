@@ -1,0 +1,78 @@
+capital = #Londres
+
+oob = #find someone to do this for us 
+
+set_research_slots = 5
+
+set_stability = 0.45
+set_war_support = 0.35
+
+# Starting tech
+set_technology = {
+	### MOD ###
+	### General ###
+	shipbuild_basics = 1
+	electronic_mechanical_engineering = 1
+	### Navy ###
+	early_submarine = 1
+	early_destroyer = 1
+	basic_destroyer = 1
+	early_light_cruiser = 1
+	early_heavy_cruiser = 1
+	early_battleship = 1
+	early_battlecruiser = 1
+	early_carrier = 1
+	transport = 1
+	basic_carrier = 1
+	### Tanks ###
+	gwtank = 1
+	basic_light_tank = 1
+	basic_heavy_tank = 1
+	### INF ###
+	infantry_weapons = 1
+	infantry_weapons1 = 1
+	tech_support = 1
+	tech_engineers = 1
+	tech_recon = 1
+	motorised_infantry = 1
+	gw_artillery = 1
+	### AIR ###
+	early_fighter = 1
+	naval_bomber1 = 1
+	early_bomber = 1
+	strategic_bomber1 = 1
+	cv_early_fighter = 1
+	cv_naval_bomber1 = 1
+	
+	set_convoys = 200
+
+
+set_popularities = {
+		lazzarist = 0
+                vanguardist = 0
+		social_liberal = 23
+		market_liberal = 14
+		social_conservative = 24
+		praetorism = 7
+		reactionism = 0
+		integralist = 1 
+		social_corporatism = 25 
+                bernsteinist = 6
+
+		}
+
+
+set_politics = {
+	ruling_party = praetorism
+	last_election = "1935.11.18
+	election_frequency = 48
+	elections_allowed = no
+}
+create_country_leader = {
+	name = "Henri XI Plantagenet"
+	desc = "POLITICS_HENRI_XI_PLANTAGENET_DESC"
+	picture = "Portrait_DUA_Henri_XI_Plantagenet.tga"
+	expire = "1965.1.1"
+	ideology = praetorism_subtype
+	traits = {}
+}

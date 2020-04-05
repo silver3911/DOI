@@ -1,0 +1,19 @@
+﻿l_english:
+
+### Parties ###
+SPR_reactionism_party:0 "PNL"
+SPR_reactionism_party_long:0 "Partido Nacional Liberal"
+SPR_social_liberal_party:0 "PRR"
+SPR_social_liberal_long:0 "Partido Republicano - Radical"
+SPR_praetorism_party:0 "House of Burbon"
+SPR_praetorism_party_long:0 "House of Burbon"
+SPR_lazzarist_party:0 "Federación Lazzarista"
+SPR_lazzarist_party_long:0 "Federación Lazzarista"
+SPR_market_liberal_party:0 "PLF"
+SPR_market_liberal_party_long:0 "Partido Liberal-Fusionista"
+SPR_social_corporatism_party:0 "Partido Republicano"
+SPR_social_corporatism_party_long:0 "Partido Republicano"
+SPR_integralist_party:0 "Dirección Falangista"
+SPR_integralist_party_long:0 "Dirección Falangista"
+SPR_fundamentalist_party:0 "Inquisicionistas Católicos"
+SPR_fundamentalist_long:0 "Inquisicionistas Católicos"

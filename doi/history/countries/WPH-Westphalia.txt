@@ -1,0 +1,31 @@
+capital = 44
+
+OOB = "WPH_1936"
+
+set_technology = {
+	infantry_weapons = 1
+	tech_support = 1
+	tech_recon = 1
+}
+
+
+set_popularities = {
+		social_liberal = 0
+                social_corporatism = 12 
+                bernsteinist = 10 
+		social_conservative = 15
+		market_liberal = 5
+		lazzarist = 5 
+                praetorism = 14
+                reactionism = 16 
+                vanguardism = 0 	
+                integralist = 4 
+                fundamentalist = 0 
+}
+set_politics = {
+   ruling_party = praetorism
+	last_election = "1933.3.5"
+	election_frequency = 48
+	elections_allowed = no
+}
+

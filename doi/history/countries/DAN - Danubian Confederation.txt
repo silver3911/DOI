@@ -10,7 +10,7 @@ set_technology = {
 
 
 
-	set_popularities = {
+set_popularities = {
 		social_liberal = 7 
 		social_corporatism = 0 
 		fabianism = 1 
@@ -19,10 +19,10 @@ set_technology = {
                 lazzarist = 0
                 praetorism = 21
                 integralist = 13 
-	        fundamentalist = 0 
+	        fundamentalist = 5 
                 vanguardism = 18
                 reactionism = 9             
-	}
+}
 set_politics = {
 	ruling_party = praetorism
 	last_election = "1933.3.5"

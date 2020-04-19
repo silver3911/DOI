@@ -48,17 +48,17 @@ set_technology = {
 
 
 set_popularities = {
-		lazzarist = 0
-                vanguardist = 0
-		social_liberal = 23
-		market_liberal = 14
-		social_conservative = 24
-		praetorism = 7
-		reactionism = 0
-		integralist = 1 
-		social_corporatism = 25 
+                social_liberal = 23
+                social_corporatism = 25 
                 bernsteinist = 6
-
+		social_conservative = 24
+		market_liberal = 14 
+		lazzarist = 0 
+                praetorism = 7 
+                integralist = 1 
+                fundamentalist = 0
+                vanguardism = 0 
+                reactionism = 0 
 		}
 
 

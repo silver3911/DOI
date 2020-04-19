@@ -7,7 +7,7 @@ state=
 	state_category = enclave
 	
 	history = {	
-		owner = SCA
+		owner = FIN
 		buildings = {
 			infrastructure = 3
 		}

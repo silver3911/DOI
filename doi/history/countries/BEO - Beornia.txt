@@ -15,7 +15,12 @@ social_corporatism = 35
 bernsteinist =5 
 social_conservative = 30
 social_liberal = 10
-			
+market_liberal = 0	
+lazzarist = 0
+praetorism = 0	
+integralist = 0	
+fundamentalist = 0
+vanguardism = 0
 }
 set_politics = {
         ruling_party = reactionism

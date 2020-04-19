@@ -8,18 +8,18 @@
 ALB_social_conservative:0 "Republic of Albania"
 ALB_social_conservative_ADJ:0 "Albanian"
 ALB_social_conservative_DEF:0 "The Albanian Republic"
-ALB_praetorism_democrat:0 "Albania"
-ALB_praetorism_democrat_ADJ:0 "Albanian"
-ALB_praetorism_democrat_DEF:0 "Albania"
+ALB_praetorism:0 "Albania"
+ALB_praetorism_ADJ:0 "Albanian"
+ALB_praetorism_DEF:0 "Albania"
 ALB_social_liberal:0 "Republic of Albania"
 ALB_social_liberal_ADJ:0 "Albanian"
 ALB_social_liberal_DEF:0 "The Albanian Republic"
 
 
 #Dual Monarchy 
-DUA_praetorism_democrat:0 "Dual Monarchy"
-DUA_praetorism_democrat_ADJ:0 "Anglois"
-DUA_praetorism_democrat_DEF:0 "The Dual Monarchy"
+DUA_praetorism:0 "Dual Monarchy"
+DUA_praetorism_ADJ:0 "Anglois"
+DUA_praetorism_DEF:0 "The Dual Monarchy"
 DUA_bernsteinist:0 "Channel Republic"
 DUA_bernsteinist_ADJ:0 "Anglois"
 DUA_bernsteinist_DEF:0 "The Channel Republic"
@@ -52,7 +52,7 @@ DUA_integralist_party:0 "The Dual Monarchy"
 
 
 #Elbian Conferderation
-ELB_praetorism_democrat_party:0 "Elbian Confederation"
+ELB_praetorism_party:0 "Elbian Confederation"
 
 
 
@@ -101,7 +101,7 @@ RUS_market_liberal_DEF:0 "The Russian Tsardom"
 
 
 #Danubian Conferderation
-DAN_praetorism_democrat_party:0 "Danubian Conferderation"
+DAN_praetorism_party:0 "Danubian Conferderation"
 
 
 

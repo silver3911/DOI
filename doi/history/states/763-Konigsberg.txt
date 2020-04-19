@@ -7,7 +7,7 @@ state={
 
 	history={
 		owner = PRS
-		controller = GER
+		controller = PRS
 		
 		victory_points = {
 			6332 10 

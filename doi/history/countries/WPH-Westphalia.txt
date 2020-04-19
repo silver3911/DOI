@@ -10,17 +10,18 @@ set_technology = {
 
 
 set_popularities = {
-		social_liberal = 0
-                social_corporatism = 12 
-                bernsteinist = 10 
-		social_conservative = 15
-		market_liberal = 5
-		lazzarist = 5 
-                praetorism = 14
-                reactionism = 16 
-                vanguardism = 0 	
-                integralist = 4 
-                fundamentalist = 0 
+		 
+                social_liberal = 4
+                social_corporatism = 12  
+                bernsteinist = 10  
+		social_conservative = 16 
+		market_liberal = 7 
+		lazzarist = 5  
+                praetorism = 14 
+                integralist = 16
+                fundamentalist = 3 
+                vanguardism = 4
+                reactionism = 9
 }
 set_politics = {
    ruling_party = praetorism
@@ -28,4 +29,11 @@ set_politics = {
 	election_frequency = 48
 	elections_allowed = no
 }
-
+create_country_leader = {
+	name = "King Eduard"
+	desc = "POLITICS_KING_Eduard_DESC"
+	picture = "Portrait_WPH_King_Eduard.tga"
+	expire = "1965.1.1"
+	ideology = praetorism_subtype
+	traits = {}
+}

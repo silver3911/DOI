@@ -5,7 +5,7 @@ state={
 	state_category = town
 
 	history={
-		owner = SCA
+		owner = FIN
 		add_core_of = FIN
 		buildings = {
 			infrastructure = 5

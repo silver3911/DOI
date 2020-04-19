@@ -13,7 +13,7 @@ state={
 		#	11386 1
 		#}
 		owner = PRS
-		controller = GER
+		controller = PRS
 		
 		buildings = {
 			infrastructure = 6

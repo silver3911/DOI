@@ -42,17 +42,48 @@ DUA_market_liberal:0 "Dual Monarchy"
 DUA_market_liberal_ADJ:0 "Anglois"
 DUA_market_liberal_DEF:0 "The Dual Monarchy"
 DUA_reactionism:0 "Dual Monarchy"
-DUA_reactionism_ADJ:0 "Anglois
+DUA_reactionism_ADJ:0 "Anglois"
 DUA_reactionism_DEF:0 "The Dual Monarchy"
 DUA_integralist_party:0 "Dual Monarchy"
 DUA_integralist_party:0 "Anglois" 
 DUA_integralist_party:0 "The Dual Monarchy"
 
+#Westphalia
+WPH_praetorism:0 "Westphalia"
+WPH_praetorism_ADJ:0 "Westphalian"
+WPH_praetorism_DEF:0 "The Kingdom of Westphalia"
+WPH_bernsteinist:0 "Westphalia"
+WPH_bernsteinist_ADJ:0 "Westphalian"
+WPH_bernsteinist_DEF:0 "The Kingdom of Westphalia"
+WPH_social_liberal:0 "Westphalia"
+WPH_social_liberal_ADJ:0 "Westphalian"
+WPH_social_liberal_DEF:0 "The Kingdom of Westphalia"
+WPH_vanguardism:0 "Westphalia"
+WPH_vanguardism_ADJ:0 "Westphalian"
+WPH_vanguardism_DEF:0 "The Kingdom of Westphalia"
+WPH_lazzarist:0 "Westphalia"
+WPH_lazzarist_ADJ:0 "Westphalian"
+WPH_lazzarist_DEF:0 "The Kingdom of Westphalia"
+WPH_social_conservative:0 "Westphalia"
+WPH_social_conservative_ADJ:0 "Westphalian"
+WPH_social_conservative_DEF:0 "The Kingdom of Westphalia"
+WPH_social_corporatism:0 "Westphalia"
+WPH_social_corporatism_ADJ:0 "Westphalian"
+WPH_social_corporatism_def:0 "The Kingdom of Westphalia"
+WPH_market_liberal:0 "Westphalia"
+WPH_market_liberal_ADJ:0 "Westphalian"
+WPH_market_liberal_DEF:0 "The Kingdom of Westphalia"
+WPH_reactionism:0 "Westphalia"
+WPH_reactionism_ADJ:0 "Westphalian"
+WPH_reactionism_DEF:0 "The Kingdom of Westphalia"
+WPH_integralist_party:0 "Westphalia"
+WPH_integralist_party:0 "Westphalian" 
+WPH_integralist_party:0 "The Kingdom of Westphalia"
 
 
 
 #Elbian Conferderation
-ELB_praetorism_party:0 "Elbian Confederation"
+ELB_praetorism:0 "Elbian Confederation"
 
 
 
@@ -101,7 +132,7 @@ RUS_market_liberal_DEF:0 "The Russian Tsardom"
 
 
 #Danubian Conferderation
-DAN_praetorism_party:0 "Danubian Conferderation"
+DAN_praetorism:0 "Danubian Conferderation"
 
 
 
@@ -112,6 +143,37 @@ DAN_praetorism_party:0 "Danubian Conferderation"
 
 
 
+#Plantagenia
+PGA_praetorism:0 "Plantagenia"
+PGA_praetorism_ADJ:0 "Plantagenian"
+PGA_praetorism_DEF:0 " The Kingdom of Plantagenia"
+PGA_bernsteinist:0 "Plantagenia"
+PGA_bernsteinist_ADJ:0 "Plantagenian"
+PGA_bernsteinist_DEF:0 "The Kingdom of Plantagenia"
+PGA_social_liberal:0 "Plantagenia"
+PGA_social_liberal_ADJ:0 "Plantagenian"
+PGA_social_liberal_DEF:0 "The Kingdom of Plantagenia"
+PGA_vanguardism:0 "Plantagenia"
+PGA_vanguardism_ADJ:0 "Plantagenian"
+PGA_vanguardism_DEF:0 "The Kingdom of Plantagenia"
+PGA_lazzarist:0 "Plantagenia"
+PGA_lazzarist_ADJ:0 "Plantagenian"
+PGA_lazzarist_DEF:0 "The Kingdom of Plantagenia"
+PGA_social_conservative:0 "Plantagenia"
+PGA_social_conservative_ADJ:0 "Plantagenian"
+PGA_social_conservative_DEF:0 "The Kingdom of Plantagenia"
+PGA_social_corporatism:0 "Plantagenia"
+PGA_social_corporatism_ADJ:0 "Plantagenian"
+PGA_social_corporatism_def:0 "The Kingdom of Plantagenia"
+PGA_market_liberal:0 "Plantagenia"
+PGA_market_liberal_ADJ:0 "Plantagenian"
+PGA_market_liberal_DEF:0 "The Kingdom of Plantagenia"
+PGA_reactionism:0 "Plantagenia"
+PGA_reactionism_ADJ:0 "Plantagenian"
+PGA_reactionism_DEF:0 "The Kingdom of Plantagenia"
+PGA_integralist_party:0 "Plantagenia"
+PGA_integralist_party:0 "Plantagenian" 
+PGA_integralist_party:0 "The Kingdom of Plantagenia"
 
 
 

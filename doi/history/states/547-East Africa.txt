@@ -7,7 +7,7 @@ state={
 	state_category = rural
 
 	history={
-		owner = ENG
+		owner = SEA
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 1

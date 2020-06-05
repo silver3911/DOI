@@ -15,7 +15,7 @@ state={
 		add_core_of = OBC
 	}
 	provinces={
-		2115 
+		2115 10968 12925 5117 12945 12896
 	}
 	manpower=25000
 	buildings_max_level_factor=1.000

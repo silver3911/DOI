@@ -19,6 +19,6 @@ state=
 		add_claim_by = SPR
 	}
 	provinces={
-		4135
+		4135 13228
 	}
 }

@@ -1,6 +1,19 @@
 state={
 	id=802
 	name="STATE_802"
+          history={
+		owner = HSL
+		victory_points = {
+			3874 1 
+		}
+		buildings = {
+			infrastructure = 5
+
+		}
+		add_core_of = HSL
+
+	}
+
 	provinces={
 		11331 
 	}

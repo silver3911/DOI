@@ -1,0 +1,22 @@
+state={
+	id=811
+	name="STATE_811"
+          history={
+		owner = HSL
+		victory_points = {
+			3874 1 
+		}
+		buildings = {
+			infrastructure = 5
+
+		}
+		add_core_of = HSL
+
+	}
+
+	provinces={
+		6325 6349 9347 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

@@ -44,9 +44,9 @@ DUA_market_liberal_DEF:0 "The Dual Monarchy"
 DUA_reactionism:0 "Dual Monarchy"
 DUA_reactionism_ADJ:0 "Anglois"
 DUA_reactionism_DEF:0 "The Dual Monarchy"
-DUA_integralist_party:0 "Dual Monarchy"
-DUA_integralist_party:0 "Anglois" 
-DUA_integralist_party:0 "The Dual Monarchy"
+DUA_integralist:0 "Dual Monarchy"
+DUA_integralist_ADJ:0 "Anglois" 
+DUA_integralist_DEF:0 "The Dual Monarchy"
 
 #Westphalia
 WPH_praetorism:0 "Westphalia"
@@ -76,9 +76,9 @@ WPH_market_liberal_DEF:0 "The Kingdom of Westphalia"
 WPH_reactionism:0 "Westphalia"
 WPH_reactionism_ADJ:0 "Westphalian"
 WPH_reactionism_DEF:0 "The Kingdom of Westphalia"
-WPH_integralist_party:0 "Westphalia"
-WPH_integralist_party:0 "Westphalian" 
-WPH_integralist_party:0 "The Kingdom of Westphalia"
+WPH_integralist:0 "Westphalia"
+WPH_integralist_ADJ:0 "Westphalian"
+WPH_integralist_DEF:0 "The Kingdom of Westphalia"
 
 
 
@@ -171,14 +171,16 @@ PGA_market_liberal_DEF:0 "The Kingdom of Plantagenia"
 PGA_reactionism:0 "Plantagenia"
 PGA_reactionism_ADJ:0 "Plantagenian"
 PGA_reactionism_DEF:0 "The Kingdom of Plantagenia"
-PGA_integralist_party:0 "Plantagenia"
-PGA_integralist_party:0 "Plantagenian" 
-PGA_integralist_party:0 "The Kingdom of Plantagenia"
+PGA_integralist:0 "Plantagenia"
+PGA_integralist_ADJ:0 "Plantagenian"
+PGA_integralist_DEF:0 "The Kingdom of Plantagenia"
 
 
 
-
-
+#Vinland
+Vin_praetorism:0 "Vinland"
+VIN_praetorism_ADJ:0 "Vinnish"
+VIN_praetorism_DEF:0 "The Republic of Vinland"
 
 
 

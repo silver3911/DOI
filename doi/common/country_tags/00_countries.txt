@@ -199,7 +199,7 @@ CAT = "countries/Catalonia.txt"
 NAV = "countries/Navarra.txt"
 GLC = "countries/Galicia.txt"
 ADU = "countries/Andalusia.txt"
-
+KOS = "countries/Kosovo.txt"
 
 
 #modded

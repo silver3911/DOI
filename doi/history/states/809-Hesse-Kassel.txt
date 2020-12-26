@@ -1,0 +1,23 @@
+state={
+	id=809
+	name="STATE_809"
+
+        history={
+		owner = HKS
+		victory_points = {
+			3874 1 
+		}
+		buildings = {
+			infrastructure = 5
+
+		}
+		add_core_of = HKS
+
+	}
+
+	provinces={
+		6555 6568 6581 6594 9557 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

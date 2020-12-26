@@ -10,7 +10,6 @@ set_technology = {
 
 
 set_popularities = {
-		 
                 social_liberal = 4
                 social_corporatism = 12  
                 bernsteinist = 10  
@@ -23,7 +22,7 @@ set_popularities = {
                 vanguardism = 4
                 reactionism = 9
 }
-set_politics = {
+        set_politics = {
    ruling_party = praetorism
 	last_election = "1933.3.5"
 	election_frequency = 48
